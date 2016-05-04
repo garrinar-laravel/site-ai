@@ -3,7 +3,8 @@
   "description": "site-ai",
   "license": "MIT",
   "require": {
-    "garrinar/brain" : "1.0.*"
+    "garrinar/brain" : "1.0.*",
+    "garrinar/tools": "1.0.*"
   },
   "authors": [
     {
