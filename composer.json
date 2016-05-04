@@ -1,0 +1,15 @@
+{
+  "name": "garrinar/site-ai",
+  "description": "site-ai",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "require": {
+    "garrinar/brain" : "1.0.*"
+  },
+  "authors": [
+    {
+      "name": "Viktor Noyabrodsky",
+      "email": "garrinar@gmail.com"
+    }
+  ]
+}
