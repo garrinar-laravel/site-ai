@@ -1,7 +1,7 @@
 {
   "name": "garrinar/site-ai",
   "description": "site-ai",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "license": "MIT",
   "require": {
     "garrinar/brain" : "1.0.*"
